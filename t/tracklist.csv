@@ -16,7 +16,7 @@ H4-01,56,hoeren,2,9:20,Vortrag: Slow Fashion – Kleidung mit Zukunft,de-DE-Katj
 HT1-01,58,hoeren,1,2:42,telc HV 1: Radionachrichten,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b2/t/HT1-01.mp3
 HT2-01,59,hoeren,1,4:07,telc HV 2: Interview – Leben auf dem Land,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b2/t/HT2-01.mp3
 HT3-01,60,hoeren,1,2:40,telc HV 3: Fünf Durchsagen,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/HT3-01.mp3
-HO1-01,61,hoeren,2,6:17,ÖSD Aufgabe 1: Das Wiener Kaffeehaus,de-AT-IngridNeural de-AT-JonasNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HO1-01.mp3
+HO1-01,61,hoeren,2,6:18,ÖSD Aufgabe 1: Das Wiener Kaffeehaus,de-AT-IngridNeural de-AT-JonasNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HO1-01.mp3
 HO2-01,62,hoeren,1,4:39,ÖSD Aufgabe 2: Sportangebote in Zürich,de-CH-LeniNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b2/t/HO2-01.mp3
 HN-01,63,hoeren,1,1:11,Notiztechnik 1: Zahlen-Diktat,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HN-01.mp3
 HN-02,64,hoeren,1,1:13,Notiztechnik 2: Stimmen aus Österreich und der Schweiz,de-AT-IngridNeural de-AT-JonasNeural de-CH-JanNeural de-CH-LeniNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HN-02.mp3
@@ -24,3 +24,22 @@ HM-1,66,hoeren,1,1:40,Mini-Test Teil 1: Zwei Kurztexte,de-DE-AmalaNeural de-DE-K
 HM-2,67,hoeren,2,2:50,Mini-Test Teil 2: Interview über Schlaf,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HM-2.mp3
 HM-3,67,hoeren,1,1:34,Mini-Test Teil 3: Die Vier-Tage-Woche,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/HM-3.mp3
 HM-4,68,hoeren,2,3:59,Mini-Test Teil 4: Vortrag über Ernährung,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/HM-4.mp3
+S-01,108,sprechen,1,2:12,Musterskript 1: Vortrag „Einkaufen im Internet“,de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-01.mp3
+S-02,109,sprechen,1,2:03,Musterskript 2: Vortrag „Fremdsprachen lernen“,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-02.mp3
+S-03,110,sprechen,1,1:42,Musterskript 3: Vortrag „Schnelles Essen im Alltag“,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-03.mp3
+S-04,112,sprechen,1,0:58,telc Teil 1: Erfahrungen mit Ehrenamt,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/S-04.mp3
+S-05,115,sprechen,1,1:35,Musterskript 4: Diskussion „Autofreie Innenstadt?“,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/S-05.mp3
+S-06,116,sprechen,1,1:36,Musterskript 5: Diskussion „Vier-Tage-Woche“,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-06.mp3
+S-07,117,sprechen,1,1:12,Musterskript 6: telc-Diskussion „Schulnoten abschaffen?“,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/S-07.mp3
+S-08,121,sprechen,1,1:47,Musterskript 7: telc „Abschiedsfest planen“,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_b2/t/S-08.mp3
+S-09,122,sprechen,1,1:15,Musterskript 8: telc „Firmenausflug planen“,de-DE-ConradNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/S-09.mp3
+S-10,123,sprechen,1,1:30,Musterskript 9: ÖSD „Beraten – Praktikum in Wien“,de-AT-JonasNeural de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-10.mp3
+S-11,124,sprechen,1,0:49,Musterskript 10: ÖSD „Bild beschreiben“,de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-11.mp3
+S-12,125,sprechen,1,1:38,Aussprache-Training: Minimalpaare,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/S-12.mp3
+M1-H1,141,mt,1,5:17,"Modelltest 1, Hören Teil 1",de-DE-AmalaNeural de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/M1-H1.mp3
+M1-H2,142,mt,2,6:25,"Modelltest 1, Hören Teil 2",de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/M1-H2.mp3
+M1-H3,143,mt,1,3:25,"Modelltest 1, Hören Teil 3",de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/M1-H3.mp3
+M1-H4,144,mt,2,6:31,"Modelltest 1, Hören Teil 4",de-DE-ConradNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/M1-H4.mp3
+M2-H1,161,mt,1,2:16,"Modelltest 2, Hörverstehen Teil 1",de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_b2/t/M2-H1.mp3
+M2-H2,161,mt,1,3:47,"Modelltest 2, Hörverstehen Teil 2",de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/M2-H2.mp3
+M2-H3,162,mt,1,2:12,"Modelltest 2, Hörverstehen Teil 3",de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_b2/t/M2-H3.mp3
